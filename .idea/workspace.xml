@@ -1,17 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8b0983e-22c1-4d28-beeb-1ed82ba480c6" name="Changes" comment="" />
+    <list default="true" id="c8b0983e-22c1-4d28-beeb-1ed82ba480c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stream/filter/DemoFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stream/filter/DemoFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stream/filter/DemoFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stream/filter/DemoFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stream/filter/DemoOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stream/filter/DemoOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stream/filter/DemoThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stream/filter/DemoThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stream/filter/DemoTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stream/filter/DemoTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stream/functionalInterface/Percentage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stream/functionalInterface/Percentage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stream/functionalInterface/PercentageCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stream/functionalInterface/PercentageCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stream/interfaceDemo/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stream/interfaceDemo/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stream/interfaceDemo/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stream/interfaceDemo/MainClass.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2arRN3ajPJJscjrr8oKbMa64tT2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,6 +52,87 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.stream.interfaceDemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DemoFive">
+    <configuration name="DemoFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stream.filter.DemoFive" />
+      <module name="javaStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stream.filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stream.filter.DemoFour" />
+      <module name="javaStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stream.filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stream.filter.DemoOne" />
+      <module name="javaStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stream.filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stream.filter.DemoThree" />
+      <module name="javaStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stream.filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stream.filter.DemoTwo" />
+      <module name="javaStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stream.filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoFive" />
+        <item itemvalue="Application.DemoFour" />
+        <item itemvalue="Application.DemoThree" />
+        <item itemvalue="Application.DemoTwo" />
+        <item itemvalue="Application.DemoOne" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
