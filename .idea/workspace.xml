@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8b0983e-22c1-4d28-beeb-1ed82ba480c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/lambda/function/DemoOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambda/function/DemoThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambda/function/DemoTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambda/predicate/DemoFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambda/predicate/DemoFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambda/predicate/DemoOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambda/predicate/DemoSix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambda/predicate/DemoThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambda/predicate/DemoTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stream/map/DemoOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambda/consumer/DemoOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambda/consumer/DemoTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambda/function/DemoFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambda/function/DemoFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambda/supplier/DemoOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,13 +57,39 @@
       <recent name="com.stream.interfaceDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoThree">
+  <component name="RunManager" selected="Application.com.lambda.supplier.DemoOne">
+    <configuration name="DemoFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lambda.function.DemoFive" />
+      <module name="javaStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lambda.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lambda.function.DemoFour" />
+      <module name="javaStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lambda.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lambda.function.DemoOne" />
+      <option name="MAIN_CLASS_NAME" value="com.lambda.consumer.DemoOne" />
       <module name="javaStream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lambda.function.*" />
+          <option name="PATTERN" value="com.lambda.consumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoSix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lambda.predicate.DemoSix" />
+    <configuration name="com.lambda.consumer.DemoTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lambda.consumer.DemoTwo" />
       <module name="javaStream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lambda.predicate.*" />
+          <option name="PATTERN" value="com.lambda.consumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,38 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lambda.function.DemoThree" />
+    <configuration name="com.lambda.supplier.DemoOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lambda.supplier.DemoOne" />
       <module name="javaStream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lambda.function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lambda.function.DemoTwo" />
-      <module name="javaStream" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lambda.function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.lambda.predicate.DemoFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lambda.predicate.DemoFive" />
-      <module name="javaStream" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lambda.predicate.*" />
+          <option name="PATTERN" value="com.lambda.supplier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoThree" />
-        <item itemvalue="Application.DemoTwo" />
-        <item itemvalue="Application.DemoOne" />
-        <item itemvalue="Application.DemoSix" />
-        <item itemvalue="Application.com.lambda.predicate.DemoFive" />
+        <item itemvalue="Application.com.lambda.supplier.DemoOne" />
+        <item itemvalue="Application.com.lambda.consumer.DemoTwo" />
+        <item itemvalue="Application.com.consumer.DemoOne" />
+        <item itemvalue="Application.DemoFive" />
+        <item itemvalue="Application.DemoFour" />
       </list>
     </recent_temporary>
   </component>
