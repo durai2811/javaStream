@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8b0983e-22c1-4d28-beeb-1ed82ba480c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/lambda/consumer/DemoOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambda/consumer/DemoTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambda/function/DemoFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambda/function/DemoFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambda/supplier/DemoOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stream/map/DemoFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stream/map/DemoThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stream/map/DemoTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stream/map/DemoOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stream/map/DemoOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,26 +56,13 @@
       <recent name="com.stream.interfaceDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.lambda.supplier.DemoOne">
-    <configuration name="DemoFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lambda.function.DemoFive" />
-      <module name="javaStream" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lambda.function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DemoFour">
     <configuration name="DemoFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lambda.function.DemoFour" />
+      <option name="MAIN_CLASS_NAME" value="com.stream.map.DemoFour" />
       <module name="javaStream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lambda.function.*" />
+          <option name="PATTERN" value="com.stream.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lambda.consumer.DemoOne" />
+    <configuration name="DemoThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stream.map.DemoThree" />
       <module name="javaStream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lambda.consumer.*" />
+          <option name="PATTERN" value="com.stream.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.lambda.consumer.DemoTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lambda.consumer.DemoTwo" />
+    <configuration name="DemoTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stream.map.DemoTwo" />
       <module name="javaStream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lambda.consumer.*" />
+          <option name="PATTERN" value="com.stream.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.stream.map.DemoOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stream.map.DemoOne" />
+      <module name="javaStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stream.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.lambda.supplier.DemoOne" />
-        <item itemvalue="Application.com.lambda.consumer.DemoTwo" />
-        <item itemvalue="Application.com.consumer.DemoOne" />
-        <item itemvalue="Application.DemoFive" />
         <item itemvalue="Application.DemoFour" />
+        <item itemvalue="Application.DemoThree" />
+        <item itemvalue="Application.DemoTwo" />
+        <item itemvalue="Application.com.stream.map.DemoOne" />
+        <item itemvalue="Application.com.lambda.supplier.DemoOne" />
       </list>
     </recent_temporary>
   </component>
